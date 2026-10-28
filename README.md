@@ -32,17 +32,6 @@ The non-circular gear provides variable transmission of torque and speed during 
 * Gear fatigue factor of safety was approximately **6.22**.
 * Linkage fatigue factor of safety was approximately **1.28**.
 
-## Repository Contents
-
-```text
-├── README.md
-├── Report/
-│   └── Machine_Design_Project_Report.pdf
-├── Code/
-├── CAD/
-├── Results/
-└── Figures/
-```
 
 ## Tools / Methods
 
